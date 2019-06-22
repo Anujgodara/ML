@@ -1,5 +1,0 @@
-import numpy as np
-
-x=np.arange(100,200,5)
-x1=x[0:16].reshape(8,2)
-x1
